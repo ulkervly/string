@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\bin\Debug\net6.0\stringmethods.exe
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\bin\Debug\net6.0\stringmethods.deps.json
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\bin\Debug\net6.0\stringmethods.runtimeconfig.json
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\bin\Debug\net6.0\stringmethods.dll
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\bin\Debug\net6.0\stringmethods.pdb
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\obj\Debug\net6.0\stringmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\obj\Debug\net6.0\stringmethods.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\obj\Debug\net6.0\stringmethods.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\obj\Debug\net6.0\stringmethods.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\obj\Debug\net6.0\stringmethods.dll
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\obj\Debug\net6.0\refint\stringmethods.dll
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\obj\Debug\net6.0\stringmethods.pdb
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\obj\Debug\net6.0\stringmethods.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Рабочий стол\Car\stringmethods\obj\Debug\net6.0\ref\stringmethods.dll
